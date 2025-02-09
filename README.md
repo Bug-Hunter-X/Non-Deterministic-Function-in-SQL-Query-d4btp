@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon SQL bug involving the use of a non-deterministic function within a query that requires deterministic behavior. The `bug.sql` file shows the erroneous query, while `bugSolution.sql` provides a corrected version.
